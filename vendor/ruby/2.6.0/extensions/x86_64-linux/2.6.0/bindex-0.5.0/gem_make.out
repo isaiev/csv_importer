@@ -1,0 +1,15 @@
+current directory: /home/serhiiisaiev/projects/quorso-tech-interview-take-home-tasks/vendor/ruby/2.6.0/gems/bindex-0.5.0/ext/bindex
+/home/serhiiisaiev/.rvm/rubies/ruby-2.6.0/bin/ruby -I /home/serhiiisaiev/.rvm/rubies/ruby-2.6.0/lib/ruby/2.6.0 -r ./siteconf20190330-27596-sg344a.rb extconf.rb
+creating Makefile
+
+current directory: /home/serhiiisaiev/projects/quorso-tech-interview-take-home-tasks/vendor/ruby/2.6.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/serhiiisaiev/projects/quorso-tech-interview-take-home-tasks/vendor/ruby/2.6.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/serhiiisaiev/projects/quorso-tech-interview-take-home-tasks/vendor/ruby/2.6.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20190330-27596-9y7mhy/bindex
